@@ -1,0 +1,3 @@
+Condition;Metric;Mean;Std;t_stat;p_value;Direction_vs_Baseline
+People;Arousal_BL;0.446719905;2.254652716;1.329112994;0.190661784;Increase
+People;Valence_BL;-0.817083387;0.681516916;-8.042591256;3.50E-10;Decrease
